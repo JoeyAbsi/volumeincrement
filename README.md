@@ -4,7 +4,7 @@ This project is to change Windows' volume step
 
 You'll need AutoHotkey to get the program to work.
 
-To be able to change the increment/decrement step, you'll need to modify the following line:
+To be able to change the increment/decrement step, you'll need to modify line 5 (volume increment) and line 11 (volume decrement):
 SoundSet, volume + 5
 SoundSet, volume - 5
 

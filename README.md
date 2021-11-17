@@ -11,3 +11,7 @@ SoundSet, volume - 5
 Change the "+ 5" and "- 5" to whatever value you want.
 
 In order to have the script to start when your computer boots up, place the file "volume.ahk" in "shell:startup"
+
+
+
+Source: https://www.addictivetips.com/windows-tips/change-volume-increment-levels-on-windows-10/
